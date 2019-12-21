@@ -1,1 +1,1 @@
-![Image of Justice Cat](https://octodex.github.com/justicetocat/)
+![Image of Justice Cat](https://octodex.github.com/images/justicetocat.jpg)
