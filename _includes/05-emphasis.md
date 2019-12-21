@@ -1,0 +1,1 @@
+My attributes are *determination*, **clarity** and _**commitment**_ 
